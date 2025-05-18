@@ -1,4 +1,4 @@
-# 🔥 Firewall Rules Visualizer
+# 🔥 FirewallRulesVisualizer
 
 ## 🔐 Visualize e entenda as regras do seu firewall como nunca antes
 
@@ -40,5 +40,5 @@ Ideal para profissionais de segurança, administradores de rede e estudantes que
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/firewall-visualizer.git
-cd firewall-visualizer
+git clone https://github.com/viniciusldiniz/FirewallRulesVisualizer.git
+cd FirewallRulesVisualizer
